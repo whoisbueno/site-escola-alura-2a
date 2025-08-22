@@ -12,3 +12,6 @@ Refatoração de um site implementando recursos de acessibilidade no html, css e
 - HTML
 - CSS
 - JS
+# Obs
+- Esse site foi levente
+modificado para entregar o projeto do alura, para minha classe 2A Prestes Maia.
