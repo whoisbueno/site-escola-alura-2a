@@ -15,3 +15,5 @@ Refatoração de um site implementando recursos de acessibilidade no html, css e
 # Obs
 - Esse site foi levente
 modificado para entregar o projeto do alura, para minha classe 2A Prestes Maia.
+# Projeto 2A Conrado [Hospedagem]
+- [Clica aqui professor, hospedado pelo vercel](https://site-escola-alura-2a.vercel.app/)
